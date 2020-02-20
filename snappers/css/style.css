@@ -71,6 +71,9 @@ header {
 
 #wrap {
   clear: both;    
+  background-color: #ffffff;
+  margin-top: 220px;
+  margin: 35px 0px;
 }
 
 .content {
